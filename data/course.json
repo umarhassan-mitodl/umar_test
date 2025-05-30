@@ -1,29 +1,29 @@
 {
-  "term": "Spring",
-  "year": "2001",
+  "term": "Summer",
+  "year": "2002",
   "level": [
-    "Undergraduate"
+    "Graduate"
   ],
   "topics": [],
   "legacy_uid": "",
   "instructors": {
     "content": [],
-    "website": "umar-test"
+    "website": "umar_test"
   },
   "course_image": {
     "content": "",
-    "website": "umar-test"
+    "website": "umar_test"
   },
   "course_title": "umar_test",
   "hide_download": false,
   "mit_learn_topics": [],
   "course_description": "umar\\_test",
   "department_numbers": [
-    "1"
+    "2"
   ],
   "extra_course_numbers": "",
   "primary_course_number": "1",
   "learning_resource_types": [],
-  "site_uid": "e67eb85e-c84a-4575-b9ec-d220f007ec4a",
+  "site_uid": "eb7bd0c9-9a0f-49da-8ee0-5bb5e7dc3c03",
   "site_short_id": "umar_test"
 }
