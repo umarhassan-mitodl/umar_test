@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/umar_test/samplevideo_1280x720_1mb_captions.vtt
+file: /courses/1-umar_test-summer-2002/samplevideo_1280x720_1mb_captions.vtt
 file_size: 4434
 file_type: text/vtt
 image_metadata:
